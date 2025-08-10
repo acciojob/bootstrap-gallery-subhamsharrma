@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.card img {
+  border-radius: 10px; /* Rounded image corners */
+}
+.card {
+  border-radius: 10px; /* Rounded card corners */
+}
